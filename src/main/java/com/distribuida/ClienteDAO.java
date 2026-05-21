@@ -9,4 +9,7 @@ public interface ClienteDAO extends JpaRepository<Cliente, Integer> {
 
     Cliente findByCedula(String cedula);
 
+
+    // comentario git haub desde casa
+
 }
